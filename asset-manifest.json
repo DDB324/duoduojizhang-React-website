@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/duoduojizhang-react-website/static/css/main.5a7350d0.chunk.css",
+    "main.js": "/duoduojizhang-react-website/static/js/main.26a04cb6.chunk.js",
+    "main.js.map": "/duoduojizhang-react-website/static/js/main.26a04cb6.chunk.js.map",
+    "runtime-main.js": "/duoduojizhang-react-website/static/js/runtime-main.bc5c12ad.js",
+    "runtime-main.js.map": "/duoduojizhang-react-website/static/js/runtime-main.bc5c12ad.js.map",
+    "static/js/2.0496abda.chunk.js": "/duoduojizhang-react-website/static/js/2.0496abda.chunk.js",
+    "static/js/2.0496abda.chunk.js.map": "/duoduojizhang-react-website/static/js/2.0496abda.chunk.js.map",
+    "index.html": "/duoduojizhang-react-website/index.html",
+    "static/css/main.5a7350d0.chunk.css.map": "/duoduojizhang-react-website/static/css/main.5a7350d0.chunk.css.map",
+    "static/js/2.0496abda.chunk.js.LICENSE.txt": "/duoduojizhang-react-website/static/js/2.0496abda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc5c12ad.js",
+    "static/js/2.0496abda.chunk.js",
+    "static/css/main.5a7350d0.chunk.css",
+    "static/js/main.26a04cb6.chunk.js"
+  ]
+}
